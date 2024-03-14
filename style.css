@@ -29,7 +29,7 @@ h1{
     color: white;
 }
 .top-banner{
-    background-image: url("/assets/background1.jpg");
+    background-image: URL("./assets/background1.jpg");
     background-repeat: no-repeat;
 }
 section{
@@ -40,7 +40,7 @@ img.image {
     margin-left: -18px;
 }
 .mid-banner{
-    background-image: url("/assets/background2.jpg");
+    background-image: URL("./assets/background2.jpg");
     background-repeat: no-repeat;
 }
 .card{
